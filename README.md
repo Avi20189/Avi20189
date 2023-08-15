@@ -1,4 +1,4 @@
-- 👋Hi, I am Avinash Singh Ranawat
+- 👋Hi, I am Avinash 
 - 👀 I’m interested in coding and learning new things
 - 🌱 I’m currently learning JavaScript
 - Looking to collaboraet on some good Project 
