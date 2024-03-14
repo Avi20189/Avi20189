@@ -8,3 +8,18 @@ In addition to my technical skills, I am a strong communicator and collaborator,
 Overall, I am a dedicated, detail-oriented software engineer with a passion for using technology to create meaningful, impactful solutions. I am excited to continue developing my skills and contributing to the success of innovative projects in the field of software engineering.
 
 Reach me at avinashsinghranawat6@gmail.com
+
+
+👨🏻‍💻 About Me
+🤔   Exploring new technologies and developing software solutions and quick hacks.
+🎓   Studied Computer Science at Kalinga Institute of industrial Technology.
+💼   Experienced Work at Highradius as a full stack engineer, Konnex as a front-end engineer & full stack developer at Datakynd
+🌱   Learning more about Fullstack Software Engineer, Systems Design and Artificial Intelligence.
+
+
+🛠 Tech Stack
+💻   JAVA | Javascript | C++ 
+🌐   HTML | CSS | JavaScript | Bootstrap | MongooseDB | Express js | Reactjs | Node.js | 
+🛢   MySQL | GraphQL | Postgres
+🔧   Git | Gitlab | Bitbucket
+🖥   UI / UX | Figma | Canva |
